@@ -1,4 +1,4 @@
-# CAP118-Touch-Sensor
+# CAP118 Touch Sensor
 Add reliable touch sensors to your Arduino
 
 # See video #30 at https://www.youtube.com/RalphBacon
